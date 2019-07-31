@@ -1,0 +1,31 @@
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SocketServer.server.resources
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SocketServer.Properties.Resources.resources
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\bin\Debug\SnapLines.exe
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\bin\Debug\SnapLines.pdb
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SnapLines.exe
+D:\users\g6017155\documents\visual studio 2012\Projects\SnapLines\SnapLines\obj\Debug\SnapLines.pdb
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SnapLines.exe
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\bin\Debug\SnapLines.pdb
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.server.resources
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SnapLines.exe
+D:\users\g6017155\documents\visual studio 2012\Projects\SocketServer\SocketServer\obj\Debug\SnapLines.pdb
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SnapLines.exe
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SnapLines.pdb
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\bin\Debug\SnapLines.exe
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\bin\Debug\SnapLines.pdb
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.server.resources
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\SocketServer\SocketServer\obj\Debug\Interop.Office.dll
+E:\前端教程視頻\SocketServer\SocketServer\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\前端教程視頻\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.ResolveComReference.cache
+E:\前端教程視頻\SocketServer\SocketServer\obj\Debug\SnapLines.exe
+E:\前端教程視頻\SocketServer\SocketServer\obj\Debug\SnapLines.pdb
